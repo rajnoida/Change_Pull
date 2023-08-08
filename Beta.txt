@@ -1,0 +1,2 @@
+This is Second additional file added to local repository.
+And later pushed to Remote Repository along with Beta file.
